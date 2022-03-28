@@ -1,2 +1,2 @@
-# useEffect-Practice
+# birthdates-palindrome
 Created with CodeSandbox
